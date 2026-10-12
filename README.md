@@ -68,7 +68,7 @@ Accuracy, Precision, Recall and F1-Score. Because the dataset is imbalanced, F1-
 
 | Model                   |  Accuracy | Precision |    Recall |  F1-Score |
 | ----------------------- | --------: | --------: | --------: | --------: |
-| Logistic Regression     |     0.883 |     0.741 |     0.851 |     0.792 |
+| Logistic Regression     |     0.883 |     0.741 |     0.851 | **0.792** |
 | Multinomial Naive Bayes |     0.871 |     0.691 |     0.926 |     0.791 |
 | Decision Tree           |     0.84  |     0.704 |     0.679 |     0.691 |
 | Random Forest           |     0.879 |     0.784 |     0.748 |     0.766 |
@@ -76,7 +76,7 @@ Accuracy, Precision, Recall and F1-Score. Because the dataset is imbalanced, F1-
 
 ### Selected Model
 
-**Linear Regression** (highest test F1-score of 0.933 and highest recall of 0.952).
+**Linear Regression** (highest test F1-score of 0.792).
 
 ## Model Saving
 
